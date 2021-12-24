@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ko">
+	<head>
+		<title>웹 문서 만들기</title>
+		<link rel = "stylesheet" href="./css/style.css">
+		<script src = "./javascript/basic.js/"></script>
+	</head>
+	<body>
+		<!-- header ,nav ,main ,footer-->
+		<header>
+			<h1>Welcome Yedam!!
+				<ul>
+					<li>로그인</li>
+					<li>게시판</li>
+					<li>FAQ</li>
+				</ul>
+			</h1>
+		</header>
+		<nav>
+			<ul>
+				<li>모자</li>
+				<li>가방</li>
+				<li>신발</li>
+		
+			</ul>
+		</nav>
+		<main>
+			<!-- HyperText MarkupLanguage -->
+			h1>웹 개발 기초</h1>
+		<p>HTML</p>
+		<p>CSS</p>
+		<p>자바스크립트></p>
+		<h2>반갑습니다. 전호민입니다.</h2>
+		<h3>html , css , javascript</h3>
+		<a href="https:// www.daum.net">다음사이트</a>
+		<a href="main.html">main page</a>
+		</main>
+		<footer>
+			&copy;Yedam.com
+		</footer>
+		<!-- HyperText MarkupLanguage -->
+		<h1>웹 개발 기초</h1>
+		<p>HTML</p>
+		<p>CSS</p>
+		<p>자바스크립트></p>
+		<h2>반갑습니다. 전호민입니다.</h2>
+		<h3>html , css , javascript</h3>
+		<a href="https:// www.daum.net">다음사이트</a>
+		<a href="main.html">main page</a>
+	<body>
+</html>
